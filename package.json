@@ -1,0 +1,14 @@
+{
+  "name": "pariksha",
+  "version": "1.0.0",
+  "description": "NodeJS CLI testing framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pksh": "index.js"
+  },
+  "author": "Sunil Chauhan",
+  "license": "ISC"
+}
