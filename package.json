@@ -9,6 +9,10 @@
   "bin": {
     "pksh": "index.js"
   },
+  "type": "commonjs",
   "author": "Sunil Chauhan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
 }
