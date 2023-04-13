@@ -4,7 +4,7 @@ const runner = new Runner();
 
 const run = async () => {
   await runner.collectFiles(process.cwd());
-  runner.runTests();
+  await runner.runTests();
 };
 
 run();
