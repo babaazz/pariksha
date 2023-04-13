@@ -13,6 +13,7 @@
   "author": "Sunil Chauhan",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^4.1.2"
+    "chalk": "^4.1.2",
+    "jsdom": "^21.1.1"
   }
 }
